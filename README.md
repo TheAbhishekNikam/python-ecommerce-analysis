@@ -28,7 +28,7 @@ This project involves analyzing a large e-commerce dataset (250,000+ entries) us
 
 📌 Ecommerce_Data_Analysis.ipynb → Jupyter Notebook with full analysis
 
-📌 ecommerce_customer_data_large.csv → Dataset used for analysis
+📌 Dataset.csv → Dataset used for analysis
 
 📌 Ecommerce_Data_Analysis.pdf → Project report with visualizations
 
