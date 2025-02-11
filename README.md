@@ -68,7 +68,6 @@ The dataset contains over 250,000 customer transactions with key attributes such
 
 ## Libraries Used
 - pandas – Data manipulation
-- numpy – Numerical analysis
 - seaborn – Data visualization
 - matplotlib – Plotting graphs
 - warnings – Suppressing warnings
